@@ -9,5 +9,8 @@
     <?php
 echo "Hello World!"
 ?>
+<?php
+echo "ola"
+?>
 </body>
 </html>
