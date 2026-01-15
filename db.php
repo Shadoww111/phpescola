@@ -1,4 +1,9 @@
 <?php
+$nome=$_POST["nome"];
+$idade=$_POST["idade"];
+
+
+
 $servername = "localhost"; // Nome do servidor, geralmente localhost
 $username = "root"; // Usuário padrão do MySQL no XAMPP
 $password = ""; // Senha do MySQL no XAMPP, normalmente em branco
